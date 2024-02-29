@@ -1,6 +1,6 @@
 {
     "name": "polygon-collision",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "polygon collision 2d circle",
     "main": "built/index.js",
     "scripts": {
