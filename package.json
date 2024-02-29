@@ -1,6 +1,6 @@
 {
     "name": "polygon-collision",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "polygon collision 2d circle",
     "main": "built/index.js",
     "scripts": {
@@ -37,5 +37,8 @@
         "gulp": "^3.9.1",
         "typescript": "^2.1.5",
         "gulp-typescript": "^3.1.4"
+    },
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
     }
 }
