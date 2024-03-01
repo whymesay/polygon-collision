@@ -12,6 +12,9 @@ The collision detection module.
 npm install polygon-collision
 ```
 
+
+
+
 ## Usage
 
 ```javascript
